@@ -7,7 +7,7 @@ ApeirophobiaCodeCracker is an open source tool intended to make getting past "Th
 # Info
 
 * Written in C# (WinForms app) and compiled in Visual Studio 2022
-* (Most likely) shouldn't require .NET installed. If you're having issues, install <a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0">.NET Core 6.0.</a>
+* (Most likely) shouldn't require .NET installed. If you're having issues, install <a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0">.NET 6.0.</a>
 
 # License
 
