@@ -16,11 +16,3 @@ ApeirophobiaCodeCracker is an open source tool intended to make getting past "Th
 # License
 
 ApeirophobiaCodeCracker is licensed under the GNU General Public License v3 License
-
-# Final Words
-
-Thank you to whoever is reading this and I hope you enjoy using my software as much as I enjoyed writing it! :)
-
-<center>
-  <a href="#"><img src="https://github.com/Bonnie39/ApeirophobiaCodeCracker/blob/main/images/png/apeirophobia_code_icon.png" alt="Icon"></a>
-</center>
