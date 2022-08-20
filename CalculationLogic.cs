@@ -8,14 +8,20 @@ namespace ApeirophobiaCodeCracker
 {
     internal class CalculationLogic
     {
-        public static string redPhase;
-        public static string greenPhase;
-        public static string bluePhase;
-        public static string greyPhase;
-        public static string yellowPhase;
-        public static string purplePhase;
-        public static string orangePhase;
+        public static string? redPhase;
+        public static string? greenPhase;
+        public static string? bluePhase;
+        public static string? greyPhase;
+        public static string? yellowPhase;
+        public static string? purplePhase;
+        public static string? orangePhase;
 
+        /*
+        Probably not the best way to go about calculating each bit and adding on to each other but it works :)
+        Here we just take the input and set the first phase = to the input plus the corresponding value
+        (We're appending the corresponding value to the end of the string, not adding two integers)
+        We repeat this for each phase, if the input is 0 or null, the phase is essentially skipped
+        */
         public static void RedPhase(string redinput)
         {
             string redString = redinput;
